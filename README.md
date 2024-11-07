@@ -38,5 +38,35 @@ To Push the Changes:
 
         class01 -> main
         Eg: git push origin class01
-        
 
+
+### Daily 
+
+To check the branch is clean,
+
+    git status
+
+To checkout to the main branch
+
+    git checkout main
+
+To get the latest changes
+
+    git pull origin main
+
+To create new branch
+
+    git checkout -b <new branch name>
+
+## Course Completed
+
+[Class 00]
+
+    00. Dev Setup
+        Installing
+
+[Class 01]
+
+    Git Commands
+    Markdown Syntax
+    
