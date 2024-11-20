@@ -76,4 +76,13 @@ To create new branch
     01. Introduction 
         Importance of Python
         Two versions of Pyhton
+
+[Class 02]
+
+        Pep 8 Guidlines
+        built-in functions
+        Comment Operator
+        Keywords & Identifiers
+        Line Continuation & Statement separator operators
+        
     
