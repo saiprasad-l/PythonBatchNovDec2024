@@ -30,7 +30,7 @@ To Stage the Changes:
 
 To Commit the Changes:
 
-    git commit -m <commit_message>
+    git commit -m "commit_message"
 
 To Push the Changes:
 
