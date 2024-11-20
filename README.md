@@ -63,10 +63,17 @@ To create new branch
 [Class 00]
 
     00. Dev Setup
-        Installing
+        Installing IDE/ Editor
+        Installing Python & local setup
+        Github access, creating project
 
 [Class 01]
 
-    Git Commands
-    Markdown Syntax
+        Git Commands
+        Markdown Syntax
+        daily activity and Usage 
+
+    01. Introduction 
+        Importance of Python
+        Two versions of Pyhton
     
