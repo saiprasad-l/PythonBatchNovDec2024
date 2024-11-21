@@ -80,7 +80,11 @@ To create new branch
 [Class 02]
 
         Pep 8 Guidlines
+        Shebang Line
+        Indentation Issue and best practices
         built-in functions
+        print function
+        script mode vs interactive mode
         Comment Operator
         Keywords & Identifiers
         Line Continuation & Statement separator operators
