@@ -88,8 +88,20 @@ To create new branch
         Jupyter notebook usage
         Ascii and Unicode Characters
         
+
+[Class 03]
+
         Comment Operator
         Keywords & Identifiers
         Line Continuation & Statement separator operators
+
+    02. Basics
+        Arithmetic operations
+        +，-，，/,//，%，*
+        divmod() function
+        Practical Problem solving 
+        working with complex numbers 
+        abs () function
+        Operator precedence in Arithmetic operations
         
     
