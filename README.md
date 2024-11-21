@@ -85,6 +85,9 @@ To create new branch
         built-in functions
         print function
         script mode vs interactive mode
+        Jupyter notebook usage
+        Ascii and Unicode Characters
+        
         Comment Operator
         Keywords & Identifiers
         Line Continuation & Statement separator operators
